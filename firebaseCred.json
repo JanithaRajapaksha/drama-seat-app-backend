@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "art-circle-drama",
+  "private_key_id": "79bea82d315e7a66efaf8ec7cd69149c314214b9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCqaizCVeviBMZo\nlur3+IgAMlmJHrwLLHzzfG3GRdH0A1NBSyo5SIWNOizqT7heEmkDhaugrewl7Nly\ndTsP+Dm4cGMDy9tFh6bwLg9W/UZOxHmllmHOEKsgkxvbE1GGH7I/o5lwyidjIVZG\nry4aVF405AA07bNGrKAYhAtBcFdSy9tP7crMOfP99OVJveYfszaIwiS0NBJs5/GI\netj+zLQcRbhHPtETGVWwaWTIvazQFxZvMl/6ociwhVrBCtevamI55QyEsvdzssER\nzu3ke/3Tmlxo3RVSIGCyiNcNM3eUNkeSvrTpy/o9qwCPBeoewv85UccgDdeSmfys\nWqcQnrblAgMBAAECggEAGQszxbbOd1o/9Y825mHcoWQaMA0CEdr5XT0BfZG1hO3X\ngTEfJOjz+35mVbmJJ4X+xHjom9tDaOARpVZLa5GNRf4k3EzL+MAH4qRvi6ylSvO+\ndCe7+tu3PQ5xbwoRQSviTE4/a/RsF7oxTX+halbQu2bFuFbgXE1dKmJ+rEtqrIIx\ntIIQkwjwtRGjZsaEit1nlA8UIFCN/dxWwa8Dfj1F/0+ZzVaqr+i3cr8Js7ay+EEG\nGcLaeX/gbYuLaL0Z33K6Shcv541Jexx7eENz798T14K89UxRCQ7pIH5HNvUJwZZr\n2aln9BheHaUnxrtEvVndF7FZGb1XB8PYek9MJ38gpwKBgQDhKW7+PlPAkRU/rzkS\n5Yq4YmcltNxUHoE8I2rCKl+sFQUXmoizXMbhCU6p6c4F88bM1FBV9wI8BycJ5/tc\n4oSp0/zkemVWWPzktRSP+SmEGUipA4jlcO3x4SsTw6XIyqpCDozmzlel+Fd6/onh\nZBPjZf3l84hSoygbmxpoQc8MowKBgQDBwTZlds8xjRa1e7SajnfVD0wXxe7l16Yn\nHkkRgKe7dPb6sfP2pnuVb6q/i/a1XIdVvF3ZQaFeIn3Rtx33q1LbgJXXcBHpRLDN\nzq89+WsR6VDHty4kQ1DBlBDKFw6r8JojK0R88Ips1u9oqmmXryU4Vx6AuYXttBk9\njvtqmsAe1wKBgQDDH776QVUfOhup9tWFFLskktJEkPmnRFBGp4KrBUGnxQeGrvrs\nROhsuD4dbWqHKf0MIKoF9WtQTfp80Ta6BetlqTotXgxXygJOyMYrBof93FNldJS8\nESODS9ii5hfTbB4j5KwikIrQX+ifw9oFI09A73AaSPPIeXAWjFFULEOb9QKBgQC7\nfXZf9PpGXtsMvypjLV30RJtDnfuxWl6kGABo+XBWS7b7nNwRX8TTNH2sYYpYsbMc\nWe0O4R1/9CyAlYxgL988HU/ia8ZJTnkwjsKxW/wqFvZebHowCRvKVrdwd6Nw6qCd\nS684n6Oz8sE1LUKEz61auaMAuYZKIS8TjJrp69nhfQKBgQCt+wwzrgBqEHao95tt\nMhupu9kJPh8PWIkFGu1OVjQ+Rkx1ZcEM0FClx6lphH5vzK2M4futwpmkBCwtlgAc\njQbkNLKuKZzD2WpG7SZVPLXy/ezNj31n8ryCQq9SVg5aUesMKUZEvs5Z9nHUr61Q\naWbCbypmNFARODoTlnorIPagnQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@art-circle-drama.iam.gserviceaccount.com",
+  "client_id": "106875456274146186704",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40art-circle-drama.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
