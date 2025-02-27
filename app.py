@@ -15,7 +15,7 @@ import os
 
 app = Flask(__name__)
 app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024  # 16MB limit
-CORS(app)
+
 
 # Firebase setup
 cred = credentials.Certificate('firebaseCred.json')
