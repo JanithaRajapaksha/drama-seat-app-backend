@@ -14,6 +14,8 @@ import qrcode
 import os
 
 app = Flask(__name__)
+CORS(app)
+
 app.config['MAX_CONTENT_LENGTH'] = 10 * 1024 * 1024  # 16MB limit
 
 
@@ -291,7 +293,9 @@ def request_seats():
         print(f"Error: {e}")
         return jsonify({'error': 'Failed to save seat request'}), 500
 
-
+@app.route("/test")
+def hello_world():
+    return "<p>Hello, World!</p>"
 
 
 
